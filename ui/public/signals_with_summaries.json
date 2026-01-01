@@ -1,0 +1,893 @@
+{
+  "total_signals": 148,
+  "signals": [
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Dermatitis atopic",
+      "count": 43,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Dermatitis atopic**.\n\n- Report count: 43\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DAPAGLIFLOZIN",
+      "reaction": "Death",
+      "count": 42,
+      "summary": "Potential safety signal detected for **DAPAGLIFLOZIN** associated with the adverse reaction **Death**.\n\n- Report count: 42\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Pruritus",
+      "count": 40,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Pruritus**.\n\n- Report count: 40\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Injection site pain",
+      "count": 35,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Injection site pain**.\n\n- Report count: 35\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Incorrect dose administered",
+      "count": 35,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Incorrect dose administered**.\n\n- Report count: 35\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "TYLENOL",
+      "reaction": "Exposure during pregnancy",
+      "count": 32,
+      "summary": "Potential safety signal detected for **TYLENOL** associated with the adverse reaction **Exposure during pregnancy**.\n\n- Report count: 32\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Drug ineffective",
+      "count": 29,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Drug ineffective**.\n\n- Report count: 29\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "BENLYSTA",
+      "reaction": "Systemic lupus erythematosus",
+      "count": 25,
+      "summary": "Potential safety signal detected for **BENLYSTA** associated with the adverse reaction **Systemic lupus erythematosus**.\n\n- Report count: 25\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "MOUNJARO",
+      "reaction": "Incorrect dose administered",
+      "count": 23,
+      "summary": "Potential safety signal detected for **MOUNJARO** associated with the adverse reaction **Incorrect dose administered**.\n\n- Report count: 23\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Product use in unapproved indication",
+      "count": 22,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Product use in unapproved indication**.\n\n- Report count: 22\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Rash",
+      "count": 21,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Rash**.\n\n- Report count: 21\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DEPO-PROVERA",
+      "reaction": "Meningioma",
+      "count": 21,
+      "summary": "Potential safety signal detected for **DEPO-PROVERA** associated with the adverse reaction **Meningioma**.\n\n- Report count: 21\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ORGOVYX",
+      "reaction": "Hot flush",
+      "count": 20,
+      "summary": "Potential safety signal detected for **ORGOVYX** associated with the adverse reaction **Hot flush**.\n\n- Report count: 20\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Asthma",
+      "count": 19,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Asthma**.\n\n- Report count: 19\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OSIMERTINIB",
+      "reaction": "Death",
+      "count": 18,
+      "summary": "Potential safety signal detected for **OSIMERTINIB** associated with the adverse reaction **Death**.\n\n- Report count: 18\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "BICILLIN L-A",
+      "reaction": "Recalled product administered",
+      "count": 18,
+      "summary": "Potential safety signal detected for **BICILLIN L-A** associated with the adverse reaction **Recalled product administered**.\n\n- Report count: 18\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Dyspnoea",
+      "count": 18,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Dyspnoea**.\n\n- Report count: 18\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Exposure via skin contact",
+      "count": 17,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Exposure via skin contact**.\n\n- Report count: 17\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "BUDESONIDE\\FORMOTEROL\\GLYCOPYRRONIUM",
+      "reaction": "Death",
+      "count": 17,
+      "summary": "Potential safety signal detected for **BUDESONIDE\\FORMOTEROL\\GLYCOPYRRONIUM** associated with the adverse reaction **Death**.\n\n- Report count: 17\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Arthralgia",
+      "count": 16,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Arthralgia**.\n\n- Report count: 16\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "LANTUS SOLOSTAR",
+      "reaction": "Off label use",
+      "count": 16,
+      "summary": "Potential safety signal detected for **LANTUS SOLOSTAR** associated with the adverse reaction **Off label use**.\n\n- Report count: 16\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Inappropriate schedule of product administration",
+      "count": 15,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Inappropriate schedule of product administration**.\n\n- Report count: 15\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Eczema",
+      "count": 15,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Eczema**.\n\n- Report count: 15\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Condition aggravated",
+      "count": 14,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Condition aggravated**.\n\n- Report count: 14\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "GENOTROPIN",
+      "reaction": "Drug dose omission by device",
+      "count": 14,
+      "summary": "Potential safety signal detected for **GENOTROPIN** associated with the adverse reaction **Drug dose omission by device**.\n\n- Report count: 14\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Off label use",
+      "count": 14,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Off label use**.\n\n- Report count: 14\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "PLUVICTO",
+      "reaction": "General physical health deterioration",
+      "count": 13,
+      "summary": "Potential safety signal detected for **PLUVICTO** associated with the adverse reaction **General physical health deterioration**.\n\n- Report count: 13\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "NEMLUVIO",
+      "reaction": "Product dose omission issue",
+      "count": 13,
+      "summary": "Potential safety signal detected for **NEMLUVIO** associated with the adverse reaction **Product dose omission issue**.\n\n- Report count: 13\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Dry skin",
+      "count": 13,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Dry skin**.\n\n- Report count: 13\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OXERVATE",
+      "reaction": "Eye pain",
+      "count": 13,
+      "summary": "Potential safety signal detected for **OXERVATE** associated with the adverse reaction **Eye pain**.\n\n- Report count: 13\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Cough",
+      "count": 13,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Cough**.\n\n- Report count: 13\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Accidental exposure to product",
+      "count": 12,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Accidental exposure to product**.\n\n- Report count: 12\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Injection site pain",
+      "count": 12,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Injection site pain**.\n\n- Report count: 12\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ORGOVYX",
+      "reaction": "Fatigue",
+      "count": 12,
+      "summary": "Potential safety signal detected for **ORGOVYX** associated with the adverse reaction **Fatigue**.\n\n- Report count: 12\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "NEMLUVIO",
+      "reaction": "Inappropriate schedule of product administration",
+      "count": 12,
+      "summary": "Potential safety signal detected for **NEMLUVIO** associated with the adverse reaction **Inappropriate schedule of product administration**.\n\n- Report count: 12\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "NUPLAZID",
+      "reaction": "Death",
+      "count": 11,
+      "summary": "Potential safety signal detected for **NUPLAZID** associated with the adverse reaction **Death**.\n\n- Report count: 11\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "RISANKIZUMAB",
+      "reaction": "Product storage error",
+      "count": 11,
+      "summary": "Potential safety signal detected for **RISANKIZUMAB** associated with the adverse reaction **Product storage error**.\n\n- Report count: 11\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Rebound atopic dermatitis",
+      "count": 11,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Rebound atopic dermatitis**.\n\n- Report count: 11\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Accidental underdose",
+      "count": 11,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Accidental underdose**.\n\n- Report count: 11\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Therapeutic response changed",
+      "count": 10,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Therapeutic response changed**.\n\n- Report count: 10\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "MOUNJARO",
+      "reaction": "Extra dose administered",
+      "count": 10,
+      "summary": "Potential safety signal detected for **MOUNJARO** associated with the adverse reaction **Extra dose administered**.\n\n- Report count: 10\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "MOUNJARO",
+      "reaction": "Product dose omission issue",
+      "count": 10,
+      "summary": "Potential safety signal detected for **MOUNJARO** associated with the adverse reaction **Product dose omission issue**.\n\n- Report count: 10\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "GENOTROPIN",
+      "reaction": "Device leakage",
+      "count": 10,
+      "summary": "Potential safety signal detected for **GENOTROPIN** associated with the adverse reaction **Device leakage**.\n\n- Report count: 10\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "MOUNJARO",
+      "reaction": "Nausea",
+      "count": 10,
+      "summary": "Potential safety signal detected for **MOUNJARO** associated with the adverse reaction **Nausea**.\n\n- Report count: 10\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Rebound effect",
+      "count": 10,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Rebound effect**.\n\n- Report count: 10\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Impaired gastric emptying",
+      "count": 10,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Impaired gastric emptying**.\n\n- Report count: 10\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Decreased appetite",
+      "count": 10,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Decreased appetite**.\n\n- Report count: 10\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Weight increased",
+      "count": 10,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Weight increased**.\n\n- Report count: 10\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DURVALUMAB",
+      "reaction": "Death",
+      "count": 10,
+      "summary": "Potential safety signal detected for **DURVALUMAB** associated with the adverse reaction **Death**.\n\n- Report count: 10\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DAPAGLIFLOZIN",
+      "reaction": "Cerebrovascular accident",
+      "count": 9,
+      "summary": "Potential safety signal detected for **DAPAGLIFLOZIN** associated with the adverse reaction **Cerebrovascular accident**.\n\n- Report count: 9\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Nausea",
+      "count": 9,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Nausea**.\n\n- Report count: 9\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "TYLENOL",
+      "reaction": "Foetal exposure during pregnancy",
+      "count": 9,
+      "summary": "Potential safety signal detected for **TYLENOL** associated with the adverse reaction **Foetal exposure during pregnancy**.\n\n- Report count: 9\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Dry eye",
+      "count": 9,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Dry eye**.\n\n- Report count: 9\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Rebound eczema",
+      "count": 9,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Rebound eczema**.\n\n- Report count: 9\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "VENCLEXTA",
+      "reaction": "Death",
+      "count": 9,
+      "summary": "Potential safety signal detected for **VENCLEXTA** associated with the adverse reaction **Death**.\n\n- Report count: 9\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Nausea",
+      "count": 9,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Nausea**.\n\n- Report count: 9\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Weight decreased",
+      "count": 8,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Weight decreased**.\n\n- Report count: 8\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Constipation",
+      "count": 8,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Constipation**.\n\n- Report count: 8\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ALBUTEROL SULFATE",
+      "reaction": "Drug dose omission by device",
+      "count": 8,
+      "summary": "Potential safety signal detected for **ALBUTEROL SULFATE** associated with the adverse reaction **Drug dose omission by device**.\n\n- Report count: 8\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DAYBUE",
+      "reaction": "Diarrhoea",
+      "count": 8,
+      "summary": "Potential safety signal detected for **DAYBUE** associated with the adverse reaction **Diarrhoea**.\n\n- Report count: 8\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "VEDOLIZUMAB",
+      "reaction": "Crohn's disease",
+      "count": 8,
+      "summary": "Potential safety signal detected for **VEDOLIZUMAB** associated with the adverse reaction **Crohn's disease**.\n\n- Report count: 8\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Drug ineffective",
+      "count": 8,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Drug ineffective**.\n\n- Report count: 8\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Injection site swelling",
+      "count": 8,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Injection site swelling**.\n\n- Report count: 8\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "NUCALA",
+      "reaction": "Asthma",
+      "count": 8,
+      "summary": "Potential safety signal detected for **NUCALA** associated with the adverse reaction **Asthma**.\n\n- Report count: 8\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "TREMFYA",
+      "reaction": "Product dose omission issue",
+      "count": 8,
+      "summary": "Potential safety signal detected for **TREMFYA** associated with the adverse reaction **Product dose omission issue**.\n\n- Report count: 8\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "TECENTRIQ",
+      "reaction": "Death",
+      "count": 8,
+      "summary": "Potential safety signal detected for **TECENTRIQ** associated with the adverse reaction **Death**.\n\n- Report count: 8\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "VERZENIO",
+      "reaction": "Diarrhoea",
+      "count": 8,
+      "summary": "Potential safety signal detected for **VERZENIO** associated with the adverse reaction **Diarrhoea**.\n\n- Report count: 8\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "CLOZAPINE",
+      "reaction": "Death",
+      "count": 7,
+      "summary": "Potential safety signal detected for **CLOZAPINE** associated with the adverse reaction **Death**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "HUMIRA",
+      "reaction": "Product storage error",
+      "count": 7,
+      "summary": "Potential safety signal detected for **HUMIRA** associated with the adverse reaction **Product storage error**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "NEULASTA",
+      "reaction": "Device adhesion issue",
+      "count": 7,
+      "summary": "Potential safety signal detected for **NEULASTA** associated with the adverse reaction **Device adhesion issue**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "MIRALAX",
+      "reaction": "Product prescribing issue",
+      "count": 7,
+      "summary": "Potential safety signal detected for **MIRALAX** associated with the adverse reaction **Product prescribing issue**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "EPIDIOLEX",
+      "reaction": "Death",
+      "count": 7,
+      "summary": "Potential safety signal detected for **EPIDIOLEX** associated with the adverse reaction **Death**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "BENRALIZUMAB",
+      "reaction": "Death",
+      "count": 7,
+      "summary": "Potential safety signal detected for **BENRALIZUMAB** associated with the adverse reaction **Death**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "GENOTROPIN",
+      "reaction": "Device breakage",
+      "count": 7,
+      "summary": "Potential safety signal detected for **GENOTROPIN** associated with the adverse reaction **Device breakage**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OXERVATE",
+      "reaction": "Eye irritation",
+      "count": 7,
+      "summary": "Potential safety signal detected for **OXERVATE** associated with the adverse reaction **Eye irritation**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "VEDOLIZUMAB",
+      "reaction": "Colitis ulcerative",
+      "count": 7,
+      "summary": "Potential safety signal detected for **VEDOLIZUMAB** associated with the adverse reaction **Colitis ulcerative**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Incorrect dose administered",
+      "count": 7,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Incorrect dose administered**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Sleep disorder due to a general medical condition",
+      "count": 7,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Sleep disorder due to a general medical condition**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Therapeutic response decreased",
+      "count": 7,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Therapeutic response decreased**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Product dose omission in error",
+      "count": 7,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Product dose omission in error**.\n\n- Report count: 7\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Extra dose administered",
+      "count": 6,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Extra dose administered**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "CARBIDOPA\\LEVODOPA",
+      "reaction": "Death",
+      "count": 6,
+      "summary": "Potential safety signal detected for **CARBIDOPA\\LEVODOPA** associated with the adverse reaction **Death**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "BENLYSTA",
+      "reaction": "Off label use",
+      "count": 6,
+      "summary": "Potential safety signal detected for **BENLYSTA** associated with the adverse reaction **Off label use**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ALBUTEROL SULFATE",
+      "reaction": "No adverse event",
+      "count": 6,
+      "summary": "Potential safety signal detected for **ALBUTEROL SULFATE** associated with the adverse reaction **No adverse event**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "MOUNJARO",
+      "reaction": "Injection site pain",
+      "count": 6,
+      "summary": "Potential safety signal detected for **MOUNJARO** associated with the adverse reaction **Injection site pain**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Alopecia",
+      "count": 6,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Alopecia**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "TYLENOL",
+      "reaction": "Autism spectrum disorder",
+      "count": 6,
+      "summary": "Potential safety signal detected for **TYLENOL** associated with the adverse reaction **Autism spectrum disorder**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "WEGOVY",
+      "reaction": "Decreased appetite",
+      "count": 6,
+      "summary": "Potential safety signal detected for **WEGOVY** associated with the adverse reaction **Decreased appetite**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "TISLELIZUMAB",
+      "reaction": "Myelosuppression",
+      "count": 6,
+      "summary": "Potential safety signal detected for **TISLELIZUMAB** associated with the adverse reaction **Myelosuppression**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Erythema",
+      "count": 6,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Erythema**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Skin exfoliation",
+      "count": 6,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Skin exfoliation**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Neurodermatitis",
+      "count": 6,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Neurodermatitis**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "FASENRA",
+      "reaction": "Asthma",
+      "count": 6,
+      "summary": "Potential safety signal detected for **FASENRA** associated with the adverse reaction **Asthma**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "IBUPROFEN",
+      "reaction": "Cross sensitivity reaction",
+      "count": 6,
+      "summary": "Potential safety signal detected for **IBUPROFEN** associated with the adverse reaction **Cross sensitivity reaction**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "EPIDIOLEX",
+      "reaction": "Hospitalisation",
+      "count": 6,
+      "summary": "Potential safety signal detected for **EPIDIOLEX** associated with the adverse reaction **Hospitalisation**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "TRULICITY",
+      "reaction": "Incorrect dose administered",
+      "count": 6,
+      "summary": "Potential safety signal detected for **TRULICITY** associated with the adverse reaction **Incorrect dose administered**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Off label use",
+      "count": 6,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Off label use**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OXERVATE",
+      "reaction": "Ocular hyperaemia",
+      "count": 6,
+      "summary": "Potential safety signal detected for **OXERVATE** associated with the adverse reaction **Ocular hyperaemia**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Pancreatitis",
+      "count": 6,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Pancreatitis**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Product use in unapproved indication",
+      "count": 6,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Product use in unapproved indication**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "IMFINZI",
+      "reaction": "Death",
+      "count": 6,
+      "summary": "Potential safety signal detected for **IMFINZI** associated with the adverse reaction **Death**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Product dose omission issue",
+      "count": 6,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Product dose omission issue**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "MINOXIDIL",
+      "reaction": "Product use issue",
+      "count": 6,
+      "summary": "Potential safety signal detected for **MINOXIDIL** associated with the adverse reaction **Product use issue**.\n\n- Report count: 6\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "AMOXICILLIN\\CLAVULANIC ACID",
+      "reaction": "Drug-induced liver injury",
+      "count": 5,
+      "summary": "Potential safety signal detected for **AMOXICILLIN\\CLAVULANIC ACID** associated with the adverse reaction **Drug-induced liver injury**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Headache",
+      "count": 5,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Headache**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "GENOTROPIN",
+      "reaction": "Device mechanical issue",
+      "count": 5,
+      "summary": "Potential safety signal detected for **GENOTROPIN** associated with the adverse reaction **Device mechanical issue**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "GENOTROPIN",
+      "reaction": "Device use error",
+      "count": 5,
+      "summary": "Potential safety signal detected for **GENOTROPIN** associated with the adverse reaction **Device use error**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "IBUPROFEN",
+      "reaction": "Angioedema",
+      "count": 5,
+      "summary": "Potential safety signal detected for **IBUPROFEN** associated with the adverse reaction **Angioedema**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ELIQUIS",
+      "reaction": "Treatment noncompliance",
+      "count": 5,
+      "summary": "Potential safety signal detected for **ELIQUIS** associated with the adverse reaction **Treatment noncompliance**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "FARXIGA",
+      "reaction": "Death",
+      "count": 5,
+      "summary": "Potential safety signal detected for **FARXIGA** associated with the adverse reaction **Death**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Dysphagia",
+      "count": 5,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Dysphagia**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Fatigue",
+      "count": 5,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Fatigue**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Pain",
+      "count": 5,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Pain**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Therapeutic response shortened",
+      "count": 5,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Therapeutic response shortened**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Urticaria",
+      "count": 5,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Urticaria**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "DUPIXENT",
+      "reaction": "Weight increased",
+      "count": 5,
+      "summary": "Potential safety signal detected for **DUPIXENT** associated with the adverse reaction **Weight increased**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "NEMLUVIO",
+      "reaction": "Device malfunction",
+      "count": 5,
+      "summary": "Potential safety signal detected for **NEMLUVIO** associated with the adverse reaction **Device malfunction**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "MOUNJARO",
+      "reaction": "Drug ineffective",
+      "count": 5,
+      "summary": "Potential safety signal detected for **MOUNJARO** associated with the adverse reaction **Drug ineffective**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "INFLECTRA",
+      "reaction": "Off label use",
+      "count": 5,
+      "summary": "Potential safety signal detected for **INFLECTRA** associated with the adverse reaction **Off label use**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ELIGARD",
+      "reaction": "Death",
+      "count": 5,
+      "summary": "Potential safety signal detected for **ELIGARD** associated with the adverse reaction **Death**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "FINTEPLA",
+      "reaction": "Tricuspid valve incompetence",
+      "count": 5,
+      "summary": "Potential safety signal detected for **FINTEPLA** associated with the adverse reaction **Tricuspid valve incompetence**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Wrong technique in product usage process",
+      "count": 5,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Wrong technique in product usage process**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Intestinal obstruction",
+      "count": 5,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Intestinal obstruction**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "PREDNISOLONE",
+      "reaction": "Off label use",
+      "count": 5,
+      "summary": "Potential safety signal detected for **PREDNISOLONE** associated with the adverse reaction **Off label use**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OXERVATE",
+      "reaction": "Therapy interrupted",
+      "count": 5,
+      "summary": "Potential safety signal detected for **OXERVATE** associated with the adverse reaction **Therapy interrupted**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OXERVATE",
+      "reaction": "Eyelid pain",
+      "count": 5,
+      "summary": "Potential safety signal detected for **OXERVATE** associated with the adverse reaction **Eyelid pain**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "NUPLAZID",
+      "reaction": "Hallucination",
+      "count": 5,
+      "summary": "Potential safety signal detected for **NUPLAZID** associated with the adverse reaction **Hallucination**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OXERVATE",
+      "reaction": "Dry eye",
+      "count": 5,
+      "summary": "Potential safety signal detected for **OXERVATE** associated with the adverse reaction **Dry eye**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Illness",
+      "count": 5,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Illness**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Headache",
+      "count": 5,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Headache**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Inappropriate schedule of product administration",
+      "count": 5,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Inappropriate schedule of product administration**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "OZEMPIC",
+      "reaction": "Vomiting",
+      "count": 5,
+      "summary": "Potential safety signal detected for **OZEMPIC** associated with the adverse reaction **Vomiting**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "SKYRIZI",
+      "reaction": "Cerebrovascular accident",
+      "count": 5,
+      "summary": "Potential safety signal detected for **SKYRIZI** associated with the adverse reaction **Cerebrovascular accident**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "RITUXIMAB",
+      "reaction": "Off label use",
+      "count": 5,
+      "summary": "Potential safety signal detected for **RITUXIMAB** associated with the adverse reaction **Off label use**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "REVLIMID",
+      "reaction": "Rash",
+      "count": 5,
+      "summary": "Potential safety signal detected for **REVLIMID** associated with the adverse reaction **Rash**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "REPATHA",
+      "reaction": "Drug dose omission by device",
+      "count": 5,
+      "summary": "Potential safety signal detected for **REPATHA** associated with the adverse reaction **Drug dose omission by device**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "SKYRIZI",
+      "reaction": "Product storage error",
+      "count": 5,
+      "summary": "Potential safety signal detected for **SKYRIZI** associated with the adverse reaction **Product storage error**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "SPRAVATO",
+      "reaction": "Dissociation",
+      "count": 5,
+      "summary": "Potential safety signal detected for **SPRAVATO** associated with the adverse reaction **Dissociation**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "TYMLOS",
+      "reaction": "Dizziness",
+      "count": 5,
+      "summary": "Potential safety signal detected for **TYMLOS** associated with the adverse reaction **Dizziness**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "SODIUM CHLORIDE",
+      "reaction": "Myelosuppression",
+      "count": 5,
+      "summary": "Potential safety signal detected for **SODIUM CHLORIDE** associated with the adverse reaction **Myelosuppression**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "TYMLOS",
+      "reaction": "Heart rate increased",
+      "count": 5,
+      "summary": "Potential safety signal detected for **TYMLOS** associated with the adverse reaction **Heart rate increased**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "TYMLOS",
+      "reaction": "Headache",
+      "count": 5,
+      "summary": "Potential safety signal detected for **TYMLOS** associated with the adverse reaction **Headache**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "XOLAIR",
+      "reaction": "Idiopathic urticaria",
+      "count": 5,
+      "summary": "Potential safety signal detected for **XOLAIR** associated with the adverse reaction **Idiopathic urticaria**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Constipation",
+      "count": 5,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Constipation**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Diarrhoea",
+      "count": 5,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Diarrhoea**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Injection site reaction",
+      "count": 5,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Injection site reaction**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Underdose",
+      "count": 5,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Underdose**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    },
+    {
+      "drug": "ZEPBOUND",
+      "reaction": "Wrong technique in product usage process",
+      "count": 5,
+      "summary": "Potential safety signal detected for **ZEPBOUND** associated with the adverse reaction **Wrong technique in product usage process**.\n\n- Report count: 5\n- Interpretation: Higher-than-expected reports may indicate a real drug\u2013event relationship. Further clinical validation is recommended."
+    }
+  ]
+}
