@@ -1,85 +1,129 @@
-Pharmacovigilance Signal Detection Agent
-Introduction:
+# Pharmacovigilance Signal Detection Agent 🚨
 
-This project aims to build an AI-based system that can automatically detect early drug safety signals from adverse event (AE) data. Today, pharmacovigilance teams manually review huge datasets like FAERS reports, medical literature, and safety bulletins. This process is slow and makes it easy to miss early warning signs.
+An AI-driven system for early detection of drug safety signals using adverse event data, clustering, and Large Language Model (LLM) agents.
 
-Our goal is to use LLMs and machine learning to make this process faster, smarter, and more reliable.
+---
 
-Problem We Are Solving
+## Introduction
 
-Millions of adverse events are reported every year, but identifying real safety issues hidden inside this data is difficult. Manual analysis is time-consuming, and weak signals often go unnoticed.
+Pharmacovigilance teams receive millions of adverse event (AE) reports every year from sources such as regulatory databases, medical literature, and safety bulletins.  
+Today, much of this data is reviewed manually, making the process slow and increasing the risk of missing early warning signs related to drug safety.
 
-We want to build a system that can:
+This project aims to build an **AI-based pharmacovigilance signal detection agent** that combines machine learning, clustering, and LLM-based analysis to identify emerging safety risks earlier and more efficiently.
 
-Read and analyze structured and unstructured AE reports
+---
 
-Group similar cases together using clustering
+## Problem Statement
 
-Detect patterns like unexpected reactions or rising trends
+Detecting early drug safety signals is challenging due to:
 
-Summarize potential risks using an LLM
+- The massive volume of adverse event reports
+- Unstructured and noisy textual data
+- Weak or emerging signals hidden within large datasets
 
-Produce a simple weekly dashboard with key signals
+Manual review is time-consuming and often detects risks too late, after patients may already be harmed.
 
-This helps pharmacovigilance teams act early and make better safety decisions.
+---
 
-Our Solution
+## Objective
 
-We designed a pipeline that combines data processing, clustering, and LLM-based analysis.
+Build an intelligent system that can:
 
-1. Data Collection
+- Analyze structured and unstructured adverse event data
+- Identify emerging and unexpected safety patterns
+- Summarize key safety signals in a reviewer-friendly format
+- Generate a simple weekly signal-detection dashboard
 
-We use publicly available adverse event datasets such as:
+---
 
-FAERS (FDA)
+## Data Sources
 
-WHO-UMC sample data
+Publicly available pharmacovigilance datasets are used for demonstration:
 
+- **FAERS (FDA Adverse Event Reporting System)**
+- **WHO-UMC sample adverse event datasets**
+
+🔗 FAERS dataset:  
 https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html
 
-From each report, we extract important fields like drug name, reaction, seriousness, patient details, etc.
+> Note: Raw datasets are not included in this repository due to size constraints.
 
-2. Preprocessing
+---
 
-Before analysis, we:
+## Solution Overview
 
-Clean up drug names
+The system follows a multi-stage AI pipeline:
 
-Normalize reaction terms
+### 1. Data Collection
 
-Create embeddings for text fields
+- Ingest adverse event reports from public datasets
+- Extract key fields such as drug name, reaction, seriousness, and patient details
 
-Prepare the data for clustering
+### 2. Preprocessing
 
-3. Clustering
+- Clean and normalize drug and reaction names
+- Handle missing and inconsistent values
+- Generate text embeddings for narrative fields
 
-Using scikit-learn algorithms (KMeans, HDBSCAN), we group similar AE reports.
-These clusters help us notice:
+### 3. Clustering
 
-Rare but severe adverse events
+- Group similar adverse event reports using clustering algorithms
+- Identify:
+  - Rare but severe adverse reactions
+  - Rapidly increasing trends
+  - Unusual drug–event combinations
 
-Sharp increases in specific reactions
+### 4. LLM-Based Analysis
 
-Unusual drug–event combinations
+- Use LangChain-powered LLM agents to:
+  - Summarize each cluster
+  - Identify top safety signals
+  - Assign risk levels (Low / Medium / High)
+  - Provide concise explanations for reviewers
 
-4. LLM Analysis
+### 5. Weekly Signal Dashboard
 
-We use LangChain agents and an LLM to:
+- Generate:
+  - A structured JSON output with detected signals
+  - A human-readable text/Markdown report
+- Highlight the most critical emerging safety concerns
 
-Summarize what each cluster represents
+---
 
-Identify the top safety signals
+## Expected Outcome
 
-Assign a simple risk level (Low, Medium, High)
+- Early identification of emerging adverse event clusters
+- Clear summaries of potential safety risks
+- A lightweight, interpretable dashboard for pharmacovigilance teams
 
-Provide short explanations useful for reviewers
+This enables **faster, data-driven safety decisions** and supports early regulatory action.
 
-5. Weekly Dashboard
+---
 
-The final output includes:
+## Tech Stack
 
-A JSON file with detected signals and cluster summaries
+- **Python**
+- **Pandas, NumPy**
+- **Scikit-learn (Clustering)**
+- **Embeddings**
+- **FAISS / Chroma**
+- **LangChain Agents**
+- **Prompt-based risk classification**
 
-A text/Markdown report that highlights the most important findings
+---
 
-Clear explanations that non-technical reviewers can understand...
+## Project Structure
+
+```text
+pharmacovigilance-signal-detection/
+├── src/            # Core signal detection pipeline
+├── ui/             # Dashboard and visualization
+├── data/           # Sample data structure (no raw datasets)
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+##Disclaimer
+
+This project is developed for educational and hackathon purposes only and is not intended for direct clinical or regulatory decision-making.
+```
