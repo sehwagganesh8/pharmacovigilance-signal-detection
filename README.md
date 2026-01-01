@@ -123,6 +123,8 @@ pharmacovigilance-signal-detection/
 ├── README.md
 └── .gitignore
 
+---
+
 ##Disclaimer
 
 This project is developed for educational and hackathon purposes only and is not intended for direct clinical or regulatory decision-making.
