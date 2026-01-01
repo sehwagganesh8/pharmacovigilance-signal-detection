@@ -14,3 +14,6 @@ outputs/
 # Virtual env & node
 venv/
 node_modules/
+
+ui_backup/
+
